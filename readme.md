@@ -1,4 +1,4 @@
-# FiveM Auto Notify
+# Auto Message ESX script
 
 Welcome to the FiveM Auto Message ESX script resource! This script automatically displays periodic notifications to players on your server with interactive feedback options. Players can react to notifications with a "dumpsDown" reaction, which is logged to a Discord webhook. 
 
