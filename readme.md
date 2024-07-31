@@ -1,6 +1,6 @@
 # FiveM Auto Notify
 
-Welcome to the FiveM Auto Notify resource! This script automatically displays periodic notifications to players on your server with interactive feedback options. Players can react to notifications with a "dumpsDown" reaction, which is logged to a Discord webhook. 
+Welcome to the FiveM Auto Message ESX script resource! This script automatically displays periodic notifications to players on your server with interactive feedback options. Players can react to notifications with a "dumpsDown" reaction, which is logged to a Discord webhook. 
 
 ## Features
 
@@ -26,7 +26,7 @@ Welcome to the FiveM Auto Notify resource! This script automatically displays pe
 
 ### `auto_notify/config.lua`
 
-This file contains configuration settings for the Auto Notify resource.
+This file contains configuration settings for the Auto Message ESX script resource.
 
 ```lua
 Config = {}
