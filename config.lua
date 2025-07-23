@@ -2,16 +2,15 @@ Config = {}
 
 -- Define the messages to be shown to players
 Config.Messages = {
-    "Welcome to Hutsakeee Roleplay! Dive into the action and enjoy your time!",
-    "Respect fellow players and immerse yourself in the roleplay experience.",
-    "Join our Discord community for server updates and to connect with other players: https://discord.gg/zAQzk4tp77.",
-    "Need help or want to report a player? Use /report to let us know.",
-    "Explore new roles and adventures! Our server offers a wide range of experiences.",
-    "Looking for roleplay tips? Check out our website for guides and tutorials.",
-    "Join us for weekly events and special activities. Stay tuned for announcements!",
-    "Remember to follow the server rules and guidelines. We aim for a fun and fair environment.",
-    "Have suggestions or feedback? Share them with us on our forums: [Forums Link].",
-    "Thank you for playing on Hutsakeee Roleplay. We appreciate your support and enthusiasm!"
+    "Amusez vous bien sur Epsilon City !",
+    "Vous vous posez des questions sur le serveurs ? docs.epsilon-city.fr",
+    "Qu'attends tu pour nous rejoindre sur discord ? .gg/epsilon-city",
+    "Besoin d'aide ? Tu peux /report , venir en BDA ou ouvrir un ticket discord.",
+    "Avez-vous exploré toutes les posibilités du RolePlay ?.",
+    "Regarde sur discord si jamais il n'y a pas d'evenements en cours.",
+    "Tu as des suggestions ? Tout se passe sur discord",
+    "Tu veux nous rejoindre pour nous aider ? C'est sur discord.",
+    "Merci de jouer sur Epsilon City, n'hésitez pas à en parler autour de vous!"
 }
 
 -- Interval for showing messages (in minutes)
