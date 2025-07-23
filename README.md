@@ -5,7 +5,6 @@
 🚀 **Overview**:<br>
 Transform your roleplay server with our advanced Auto Message ESX script designed for FiveM. This powerful script automatically sends tailored notifications to players at configurable intervals, ensuring constant engagement and timely updates. With built-in interactive feedback options and seamless Discord integration for reaction logging, it elevates your server’s communication strategy to the next level. Enjoy multilingual support and customizable features that make it an indispensable tool for a vibrant and interactive community.
 
-<img src="https://i.imgur.com/uSiCbuW.png" alt="AutoNotify">
 <br><br>
 
 🔧 **Features**:<br>
