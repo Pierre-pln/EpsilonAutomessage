@@ -18,7 +18,7 @@ Config.Messages = {
 Config.NotificationIntervalMinutes = 15 -- Set your interval here
 
 -- Webhook URL for logging messages
-Config.WebhookURL = 'https://discord.com/api/webhooks/1268093690107396127/pLP4mPW7RIwpByCeqBU6r39k6XUdKgcdECPDym7vvQiDNB50fK6di21aVot-R_Wy7zf_'
+Config.WebhookURL = ''
 
 -- Validate the interval value
 if Config.NotificationIntervalMinutes < 1 then
